@@ -9,8 +9,8 @@
 const Abi = {
   pronouns: 'She' | 'Her',
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'R'], 
-  role: ['Full Stack Developer Jr.']
-  tools: ['Node', 'MySql', 'Azure', 'Angular']
+  role: ['Full Stack Developer Jr.'],
+  tools: ['Node', 'MySql', 'Azure', 'Angular', 'Keras', 'TensorFlow']
 }
 ```
 
@@ -34,18 +34,15 @@ const Abi = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
-
 ### 🌱 I'm currently learning
   
-  - React 
+  - Machine Learning 
   - Advanced Python 
   - Advanced Angular
-  - Advanced Node
-  - FullStack Bootcamp with <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/" target="_blank"> Innovacción Virtual powered by Microsoft </a>
-
- 
+  - Análisis de Datos de Google <a href="https://www.coursera.org/programs/data-analytics-vebricollectionId=A6y9c&currentTab=CATALOG&productId=hXUHfDgkEeylXgqHwJpmyQ&productType=s12n&showMiniModal=true" target="_blank"> powered by Coursera and Google </a>
+  - Full Stack Developer in the program <a href="https://www.oracle.com/mx/education/oracle-next-education/" target="_blank"> ONE- Oracle Next Education </a>
 
 ---
 
-⭐️ From [@AbigailMRod](https://github.com/AbigailMRod)
+With ❤ From [@AbigailMRod](https://github.com/AbigailMRod)
   
